@@ -1,1 +1,1 @@
-# ABSA-SQS
+# ABSA-S2S
